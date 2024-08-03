@@ -1,11 +1,13 @@
 **Anaplan OAuth Function App Example**
 
-**Description**
+**Description:**
+
 Azure Function App example for OAuth to Anaplan API. Will return an authentication token. 
 
 Created by Henrikki Lehtola - henrikki.lehtola@gmail.com
 
 **Descriptions for each function app:**
+
 OAuth_Initiate:
 Will contain the url that is used to trigger the function app.
 Contains the HTML that will be used to create a more user friendly authentication view.
